@@ -30,9 +30,7 @@
 
 - 🌱 I’m currently learning **Computer Vision with Pytorch and Yolov7.**
 
-- ☁️ I've keen interest in AI. So,I'm learning **Computer Vision**
-
-- 💬 Ask me about **Python, Java, C++, OpenCV-Python**
+- ☁️ I've keen interest in **AI**. So, I'm learning **Computer Vision**
 
 - 📫 Feel free to reach me out **anhphanvt2705@gmail.com**
 <!--Intro end-->
