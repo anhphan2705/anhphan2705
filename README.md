@@ -28,7 +28,9 @@
 
 - ☁️ I've keen interest in **AI**. So, I'm learning **Computer Vision**
 
-- 📫 Feel free to reach me out **anhphanvt2705@gmail.com**
+- 📫 Feel free to reach out at **anhphanvt2705@gmail.com**
+
+
 
 
 <!--Intro end-->
