@@ -66,13 +66,13 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,vscode,github,git,java,c,linux,css,discord,html,md,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,vscode,github,git,java,c,linux,discord,mysql&perline=14" />
   </a>
 </p>
 
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=anhphan2705&icon=3&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anhphan2705&icon=3&color=3)](https://github.com/anhphan2705)
   
 </div>
