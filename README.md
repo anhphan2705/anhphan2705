@@ -45,14 +45,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=anhphan2705&theme=gruvbox&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=anhphan2705&theme=gruvbox&show_icons=true&count_private=true&hide_border=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anhphan2705&theme=gruvbox&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anhphan2705&theme=gruvbox&hide_border=true" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphan2705&layout=donut&theme=gruvbox&hide_border=false&no-bg=true&no-frame=true&langs_count=6&hide=jupyter%20notebook"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphan2705&layout=donut&theme=gruvbox&hide_border=false&no-bg=true&no-frame=true&langs_count=6&hide=jupyter%20notebook&hide_border=true"/>
   
   </td>
 </tr>
