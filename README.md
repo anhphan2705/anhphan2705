@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">🔧 Debugging for Life 😅</h2></summary>
   </ul>
 </div>
 
@@ -70,7 +70,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,css,discord,github,html,java,linux,md,mysql,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,vscode,git,github,java,c,linux,css,discord,html,md,mysql&perline=14" />
   </a>
 </p>
 
