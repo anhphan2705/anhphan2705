@@ -33,6 +33,7 @@
 - ☁️ I've keen interest in **AI**. So, I'm learning **Computer Vision**
 
 - 📫 Feel free to reach me out **anhphanvt2705@gmail.com**
+
 <!--Intro end-->
 
 
@@ -51,7 +52,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anhphan2705&theme=gruvbox&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anhphan2705&theme=gruvbox&hide_border=false&no-bg=true&no-frame=true&langs_count=5&hide=jupyter"/>
   
   </td>
 </tr>
@@ -68,7 +69,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,vscode,git,github,java,c,linux,css,discord,html,md,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,vscode,github,git,java,c,linux,css,discord,html,md,mysql&perline=14" />
   </a>
 </p>
 
