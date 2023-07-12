@@ -52,7 +52,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphan2705&layout=donut&theme=gruvbox&hide_border=false&no-bg=true&no-frame=true&langs_count=6&hide=jupyter%20notebook&hide_border=true"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhphan2705&theme=gruvbox&hide_border=true&no-bg=true&no-frame=true&langs_count=6&hide=jupyter%20notebook"/>
   
   </td>
 </tr>
