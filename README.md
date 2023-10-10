@@ -24,9 +24,9 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Python, Jupyter, Java, C**
 
-- 🌱 I’m currently learning **Computer Vision with Pytorch and Yolov7.**
+- 🌱 I'm challenging myself with projects in **Computer Vision with Pytorch and Yolov7.**
 
-- ☁️ I've keen interest in **AI**. So, I'm learning **Computer Vision**
+- ☁️ I've huge interest in **AI** and **Automated Drone Technology**
 
 - 📫 Feel free to reach out at **anhphanvt2705@gmail.com**
 
