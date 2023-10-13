@@ -22,7 +22,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, Jupyter, Java, C**
+- 🔭 I’m capable of coding with **Python, Jupyter, Java, C**
 
 - 🌱 I'm challenging myself with projects in **Computer Vision with Pytorch and Yolov7.**
 
