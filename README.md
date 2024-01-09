@@ -24,7 +24,7 @@
 <!--Intro start-->
 - 🔭 I’m proficient in **Python, Java, C**
 
-- 🌱 I'm challenging myself with projects in **Computer Vision with Pytorch and Yolov7.**
+- 🌱 I'm challenging myself with projects in **Computer Vision.**
 
 - ☁️ I've huge interest in **AI** and **Automated Drone Technology**
 
