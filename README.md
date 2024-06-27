@@ -22,13 +22,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m proficient in **Python, Java, C**
+- 🔭 I’m proficient in **Python, C, Java**
 
 - 🌱 I'm challenging myself with projects in **Computer Vision.**
 
 - ☁️ I've huge interest in **AI** and **Automated Drone Technology**
 
-- 📫 Feel free to reach out at **anhphanvt2705@gmail.com**
+- 📫 Feel free to reach out at **anhphan2753@gmail.com**
 
 
 
