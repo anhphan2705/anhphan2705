@@ -26,7 +26,7 @@
 
 - 🌱 I'm challenging myself with projects in **Computer Vision.**
 
-- ☁️ I've huge interest in **AI** and **Automated Drone Technology**
+- ☁️ I've huge interest in **Autonomous Vehicle System** and **Autonomous Drone Technology**
 
 - 📫 Feel free to reach out at **anhphan2753@gmail.com**
 
